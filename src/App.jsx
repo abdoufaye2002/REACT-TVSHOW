@@ -73,7 +73,7 @@ export function App() {
           <div className="col-4">
             <Logo
               image={logo}
-              title="ShinobiWatch"
+              title="ShinobiiiWatch"
               subtitle="Une émission qui vous plaira"
             />
           </div>
